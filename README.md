@@ -55,6 +55,8 @@ fix - When bugs was discovered
 
 
 
+
+
 ## Tech
 - Backend
   - SpringBoot Framework : Java, Gradle, JPA
@@ -66,3 +68,8 @@ fix - When bugs was discovered
 
 
 
+
+
+
+## ERD
+![ERD](https://github.com/Yanghyesun/Ando/blob/master/picture/ERD-diagram.png)
